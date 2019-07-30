@@ -7,6 +7,13 @@ requiring pickling of data.
 This code is taken almost verbatim from
 <https://stackoverflow.com/questions/3288595/multiprocessing-how-to-use-pool-map-on-a-function-defined-in-a-class#16071616>.
 
+## Installation
+
+~~~bash
+cd src/main/python
+python setup.py install
+~~~
+
 ## Usage
 
 ~~~python
